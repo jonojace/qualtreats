@@ -13,7 +13,7 @@ import config
 # question with your specifications and exporting the survey file
 # json_filename = "combined-template.json"
 json_filename = "combined-template.json"
-save_as = "output-survey.qsf"
+SAVE_AS = "output-survey.qsf"
 # audio templates should not be changed
 audio_html_template = "audio_template.html"
 play_button = "play_button.html"
@@ -91,14 +91,46 @@ def make_question(qid, urls, basis_question,question_type,
     return new_q
 
 # handler function for ab/abc questions
-def ab_q(new_q, urls, qid=None):
+def ab_q(new_q, urls, qid=None, no_preference=True, advanced_randomisation=True):
     choice_template = new_q['Payload']['Choices']['1']# make choice template
+
     # empty 'Choices' so flexible number can be added using Choice template
     new_q['Payload']['Choices'] = {}
     for i, url in enumerate(urls):
         choice = copy.deepcopy(choice_template)
         choice['Display'] = get_player_html(url) # add audio player as choice
         new_q['Payload']['Choices'][f'{i+1}'] = choice
+
+    if no_preference:
+        # add "no preference" choice
+        choice = copy.deepcopy(choice_template)
+        choice['Display'] = "No preference"
+        i += 1
+        new_q['Payload']['Choices'][f'{i+1}'] = choice
+        new_q['Payload']['ChoiceOrder'].append(i+1)
+
+        if advanced_randomisation:
+            new_q['Payload']['Randomization']["Type"] = "Advanced"
+            new_q['Payload']['Randomization']["Advanced"] = {	
+                "FixedOrder": [	
+                    "{~Randomized~}",	
+                    "{~Randomized~}",	
+                    "3"	
+                ],	
+                "RandomizeAll": [	
+                    "1",	
+                    "2"	
+                ],	
+                "RandomSubSet": [],	
+                "ScaleReversal": [],	
+                "Undisplayed": [],	
+                "TotalRandSubset": 0	
+            }
+            new_q['Payload']['Randomization']["ConsistentScaleReversal"] = False
+            new_q['Payload']['Randomization']["EvenPresentation"] = False
+
+    # print(new_q)
+
     return new_q
 
  # handler function for mushra questions
@@ -145,8 +177,15 @@ def set_id(obj):
 
 def main():
     parser = argparse.ArgumentParser() # add question types
+    parser.add_argument("-outfile", type=str, default=None)
+    parser.add_argument("-add-gt-audio", action='store_true',
+                            help="add ground truth audio to question text")
     parser.add_argument("-ab", action='store_true',
                         help="make A/B questions (like preference test)")
+    parser.add_argument("-ab-file1", type=str, default=None)
+    parser.add_argument("-ab-file2", type=str, default=None)
+    parser.add_argument("-ab-fileGT", type=str, default=None)
+    parser.add_argument("-ab-targetwords", type=str, default=None)
     parser.add_argument("-abc", action='store_true',
                         help="make A/B/C questions (like preference test)")
     parser.add_argument("-mc", action='store_true',
@@ -161,27 +200,63 @@ def main():
 
     args = parser.parse_args()
 
+    # overwrite argument dict with CLAs
+    ab_args = None
+    if args.ab_file1 is not None and args.ab_file2 is not None:
+        ab_args = [args.ab_file1, args.ab_file2]
+
+    save_as = SAVE_AS
+    if args.outfile is not None:
+        save_as = args.outfile
+
+    # load extra prompts for ab tests
+    with open(args.ab_targetwords) as f:
+        ab_targetwords = f.readlines()
+    ab_targetwords = [line.split(' ')[1].rstrip() for line in ab_targetwords]
+    print("ab prompts", ab_targetwords)
+
+    # load ground truth audio urls for ab tests
+    targetword2gturl = {}
+    with open(args.ab_fileGT) as f:
+        gturls = f.readlines()
+    for line in gturls:
+        # line -> test3 https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/1_allegiance__LJ007-0223__occ1__len8960.wav
+        _testname, url = line.split(' ')
+        filename = url.split('/')[-1]
+        targetword = filename.split('__')[0].split('_')[-1]
+        targetword2gturl[targetword] = url.rstrip()
+    print("gt urls", targetword2gturl)
+
+    cla_args = args
+
     # get only args which were specified on command line
-    args = [key for key, value in vars(args).items() if value==True]
+    args = [key for key, value in vars(args).items() if value==True and key != "add_gt_audio"]
 
     # store the arguments passed to format_urls() when executed
-    argument_dict = {'ab':[config.ab_file1, config.ab_file2],
+    argument_dict = {'ab':[config.ab_file1, config.ab_file2] if ab_args is None else ab_args,
                      'abc':[config.abc_file1, config.abc_file2, config.abc_file3],
                      'mc':[config.mc_file],
                      'trs':[config.trs_file],
                      'mushra':[config.mushra_files],
                      'mos':[config.mos_file]
                      }
+
     # create a dictionary with key=command line arg & value= output of format_urls()
     # function's arguments are taken from argument_dict
 
     url_dict = {arg:format_urls(arg, *argument_dict[arg]) for arg in args}
+
+    print(url_dict)
 
     # format_urls() returns tuple of urls & anything else that's embedded in question
     # (for MC & trs it's the sentence text, for MUSHRA it's the reference URL)
     # split dictionary value tuples into keyyed subdictionary
     for key, value in url_dict.items():
         url_dict[key] = {'urls' : value[0], 'extra':value[1]}
+
+    print(url_dict)
+
+    assert len(url_dict['ab']['urls']) == len(ab_targetwords)
 
     # get sentences from file to embed in multiple choice questions
     mc_sentences = get_sentences(config.mc_sentence_file)
@@ -249,18 +324,30 @@ def main():
     mushra_counter = 0
 
     for arg in args:
-        for n, url_set in enumerate(url_dict[arg]['urls']): # for each url set for that question type
+        for n, (url_set, target_word) in enumerate(zip(url_dict[arg]['urls'], ab_targetwords)): # for each url set for that question type
             # get MUSHRA reference url if the current flag == -mushra
             ref_url = url_dict['mushra']['extra'][mushra_counter] if arg == 'mushra' else None
             # get MC sentence if the current flag == -mc
             sentence = mc_sentences[url_dict['mc']['extra'][mc_counter]] if arg == 'mc' else None
             mushra_ref_id = n*(len(url_set)+1) # unique id for every ref sample
             # embed required url or sentence into the question text
-            text = Template(q_text_dict[arg]).substitute(ref_url=ref_url,
-                                                         ref_id=mushra_ref_id,
-                                                         urls=url_set,
-                                                         sentence=sentence
-                                                         )
+
+            # text = Template(q_text_dict[arg]).substitute(ref_url=ref_url,
+            #                                              ref_id=mushra_ref_id,
+            #                                              urls=url_set,
+            #                                              sentence=sentence
+            #                                              )
+
+            # print("DEBUG", url_set)
+
+            q_text = q_text_dict[arg].format(target_word)
+
+            if cla_args.add_gt_audio:
+                # add a audio player for the ground truth audio to question text
+                q_text += f"<br>Reference recording: {get_player_html(targetword2gturl[target_word])}"
+
+            print("question text is:", q_text)
+
             # make a new question and add it to the list of questions
             questions.append(make_question(
                                 # question number (starting at 1)
@@ -272,7 +359,7 @@ def main():
                                 question_type=arg,
                                 # handler function for that question type
                                 question_function=handler_dict[arg],
-                                question_text=text  # as set above
+                                question_text=q_text  # as set above
                                 ))
             q_counter += 1
             # increment these counters when a question of that type is created
@@ -299,9 +386,10 @@ def main():
     out_json = basis_json
     out_json['SurveyElements'] = elements
 
-    print(f'Generated survey with {survey_length} questions')
     with open(save_as, 'w+') as outfile:
         json.dump(out_json, outfile, indent=4)
+
+    print(f'Generated survey with {survey_length} questions at {save_as}')
 
 if __name__ == "__main__":
     main()
