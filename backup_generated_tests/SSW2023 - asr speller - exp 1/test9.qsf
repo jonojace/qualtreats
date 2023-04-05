@@ -550,7 +550,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'allegiance' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/1_allegiance__LJ007-0223__occ1__len8960.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/1_allegiance__LJ007-0223__occ1__len8960.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID1",
+                "DataExportTag": "QID1",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -616,7 +616,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'alleging' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/2_alleging__LJ040-0125__occ1__len7680.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/2_alleging__LJ040-0125__occ1__len7680.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID2",
+                "DataExportTag": "QID2",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -682,7 +682,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'annulled' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/3_annulled__LJ011-0220__occ1__len8320.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/3_annulled__LJ011-0220__occ1__len8320.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID3",
+                "DataExportTag": "QID3",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -748,7 +748,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'attribute' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/4_attribute__LJ005-0073__occ1__len8640.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/4_attribute__LJ005-0073__occ1__len8640.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID4",
+                "DataExportTag": "QID4",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -814,7 +814,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'auditorium' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/5_auditorium__LJ029-0188__occ1__len12000.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/5_auditorium__LJ029-0188__occ1__len12000.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID5",
+                "DataExportTag": "QID5",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -880,7 +880,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'battalion' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/6_battalion__LJ039-0079__occ1__len11520.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/6_battalion__LJ039-0079__occ1__len11520.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID6",
+                "DataExportTag": "QID6",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -946,7 +946,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'bequeathed' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/7_bequeathed__LJ016-0219__occ1__len9760.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/7_bequeathed__LJ016-0219__occ1__len9760.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID7",
+                "DataExportTag": "QID7",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -1012,7 +1012,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'boulogne' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/8_boulogne__LJ015-0213__occ1__len8000.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/8_boulogne__LJ015-0213__occ1__len8000.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID8",
+                "DataExportTag": "QID8",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -1078,7 +1078,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'brochure' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/9_brochure__LJ009-0031__occ1__len13280.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/9_brochure__LJ009-0031__occ1__len13280.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID9",
+                "DataExportTag": "QID9",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -1144,7 +1144,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'brougham' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/10_brougham__LJ014-0268__occ1__len8640.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/10_brougham__LJ014-0268__occ1__len8640.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID10",
+                "DataExportTag": "QID10",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -1210,7 +1210,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'bulwarks' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/11_bulwarks__LJ017-0219__occ1__len10240.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/11_bulwarks__LJ017-0219__occ1__len10240.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID11",
+                "DataExportTag": "QID11",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -1276,7 +1276,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'burchell' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/12_burchell__LJ002-0117__occ1__len9440.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/12_burchell__LJ002-0117__occ1__len9440.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID12",
+                "DataExportTag": "QID12",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -1342,7 +1342,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'cadillac' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/13_cadillac__LJ030-0074__occ1__len11040.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/13_cadillac__LJ030-0074__occ1__len11040.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID13",
+                "DataExportTag": "QID13",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -1408,7 +1408,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'calamity' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/14_calamity__LJ022-0197__occ1__len11200.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/14_calamity__LJ022-0197__occ1__len11200.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID14",
+                "DataExportTag": "QID14",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -1474,7 +1474,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'caravans' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/15_caravans__LJ005-0010__occ1__len14720.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/15_caravans__LJ005-0010__occ1__len14720.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID15",
+                "DataExportTag": "QID15",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -1540,7 +1540,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'cemetery' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/16_cemetery__LJ043-0058__occ1__len11360.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/16_cemetery__LJ043-0058__occ1__len11360.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID16",
+                "DataExportTag": "QID16",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -1606,7 +1606,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'charioteers' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/17_charioteers__LJ028-0494__occ1__len15520.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/17_charioteers__LJ028-0494__occ1__len15520.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID17",
+                "DataExportTag": "QID17",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -1672,7 +1672,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'colleagues' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/18_colleagues__LJ007-0003__occ1__len11841.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/18_colleagues__LJ007-0003__occ1__len11841.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID18",
+                "DataExportTag": "QID18",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -1738,7 +1738,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'collegians' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/19_collegians__LJ002-0252__occ1__len16960.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/19_collegians__LJ002-0252__occ1__len16960.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID19",
+                "DataExportTag": "QID19",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -1804,7 +1804,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'colonial' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/20_colonial__LJ013-0125__occ1__len13600.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/20_colonial__LJ013-0125__occ1__len13600.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID20",
+                "DataExportTag": "QID20",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -1870,7 +1870,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'competitive' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/21_competitive__LJ021-0073__occ1__len11840.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/21_competitive__LJ021-0073__occ1__len11840.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID21",
+                "DataExportTag": "QID21",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -1936,7 +1936,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'conducive' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/22_conducive__LJ005-0086__occ1__len13120.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/22_conducive__LJ005-0086__occ1__len13120.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID22",
+                "DataExportTag": "QID22",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -2002,7 +2002,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'coughing' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/23_coughing__LJ003-0124__occ1__len8320.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/23_coughing__LJ003-0124__occ1__len8320.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID23",
+                "DataExportTag": "QID23",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -2068,7 +2068,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'courtesy' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/24_courtesy__LJ029-0179__occ1__len10080.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/24_courtesy__LJ029-0179__occ1__len10080.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID24",
+                "DataExportTag": "QID24",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -2134,7 +2134,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'cribbage' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/25_cribbage__LJ006-0197__occ1__len12000.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/25_cribbage__LJ006-0197__occ1__len12000.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID25",
+                "DataExportTag": "QID25",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -2200,7 +2200,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'czolgosz' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/26_czolgosz__LJ050-0101__occ1__len14880.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/26_czolgosz__LJ050-0101__occ1__len14880.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID26",
+                "DataExportTag": "QID26",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -2266,7 +2266,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'decorated' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/27_decorated__LJ028-0503__occ1__len9760.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/27_decorated__LJ028-0503__occ1__len9760.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID27",
+                "DataExportTag": "QID27",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -2332,7 +2332,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'deterred' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/28_deterred__LJ007-0227__occ1__len7520.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/28_deterred__LJ007-0227__occ1__len7520.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID28",
+                "DataExportTag": "QID28",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -2398,7 +2398,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'effluvia' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/29_effluvia__LJ004-0068__occ1__len10720.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/29_effluvia__LJ004-0068__occ1__len10720.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID29",
+                "DataExportTag": "QID29",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -2464,7 +2464,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'epithets' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/30_epithets__LJ011-0258__occ1__len9120.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/30_epithets__LJ011-0258__occ1__len9120.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID30",
+                "DataExportTag": "QID30",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -2530,7 +2530,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'european' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/31_european__LJ003-0298__occ1__len9760.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/31_european__LJ003-0298__occ1__len9760.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID31",
+                "DataExportTag": "QID31",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -2596,7 +2596,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'executing' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/32_executing__LJ008-0209__occ1__len10880.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/32_executing__LJ008-0209__occ1__len10880.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID32",
+                "DataExportTag": "QID32",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -2662,7 +2662,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'executor' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/33_executor__LJ013-0071__occ1__len10720.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/33_executor__LJ013-0071__occ1__len10720.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID33",
+                "DataExportTag": "QID33",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -2728,7 +2728,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'exertions' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/34_exertions__LJ002-0314__occ1__len10080.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/34_exertions__LJ002-0314__occ1__len10080.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID34",
+                "DataExportTag": "QID34",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -2794,7 +2794,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'exhortations' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/35_exhortations__LJ007-0013__occ1__len17920.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/35_exhortations__LJ007-0013__occ1__len17920.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID35",
+                "DataExportTag": "QID35",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -2860,7 +2860,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'exhorted' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/36_exhorted__LJ017-0063__occ1__len10560.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/36_exhorted__LJ017-0063__occ1__len10560.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID36",
+                "DataExportTag": "QID36",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -2926,7 +2926,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'exhorting' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/37_exhorting__LJ011-0052__occ1__len10560.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/37_exhorting__LJ011-0052__occ1__len10560.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID37",
+                "DataExportTag": "QID37",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -2992,7 +2992,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'exonerated' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/38_exonerated__LJ018-0356__occ1__len14560.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/38_exonerated__LJ018-0356__occ1__len14560.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID38",
+                "DataExportTag": "QID38",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -3058,7 +3058,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'experimental' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/39_experimental__LJ019-0023__occ1__len14400.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/39_experimental__LJ019-0023__occ1__len14400.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID39",
+                "DataExportTag": "QID39",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -3124,7 +3124,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'fastidious' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/40_fastidious__LJ015-0159__occ1__len16000.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/40_fastidious__LJ015-0159__occ1__len16000.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID40",
+                "DataExportTag": "QID40",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -3190,7 +3190,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'flintshire' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/41_flintshire__LJ009-0297__occ1__len8640.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/41_flintshire__LJ009-0297__occ1__len8640.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID41",
+                "DataExportTag": "QID41",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -3256,7 +3256,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'forenoon' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/42_forenoon__LJ020-0019__occ1__len12160.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/42_forenoon__LJ020-0019__occ1__len12160.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID42",
+                "DataExportTag": "QID42",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -3322,7 +3322,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'forgetfulness' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/43_forgetfulness__LJ013-0209__occ1__len16960.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/43_forgetfulness__LJ013-0209__occ1__len16960.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID43",
+                "DataExportTag": "QID43",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -3388,7 +3388,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'forgiveness' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/44_forgiveness__LJ014-0234__occ1__len9280.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/44_forgiveness__LJ014-0234__occ1__len9280.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID44",
+                "DataExportTag": "QID44",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -3454,7 +3454,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'frenzied' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/45_frenzied__LJ022-0168__occ1__len11520.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/45_frenzied__LJ022-0168__occ1__len11520.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID45",
+                "DataExportTag": "QID45",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -3520,7 +3520,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'giovanni' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/46_giovanni__LJ016-0389__occ1__len10239.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/46_giovanni__LJ016-0389__occ1__len10239.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID46",
+                "DataExportTag": "QID46",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -3586,7 +3586,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'gloucester' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/47_gloucester__LJ003-0291__occ1__len10080.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/47_gloucester__LJ003-0291__occ1__len10080.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID47",
+                "DataExportTag": "QID47",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -3652,7 +3652,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'gloucestershire' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/48_gloucestershire__LJ014-0053__occ1__len14720.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/48_gloucestershire__LJ014-0053__occ1__len14720.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID48",
+                "DataExportTag": "QID48",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -3718,7 +3718,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'gonzalez' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/49_gonzalez__LJ031-0132__occ1__len13920.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/49_gonzalez__LJ031-0132__occ1__len13920.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID49",
+                "DataExportTag": "QID49",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -3784,7 +3784,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'hammurabi' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/50_hammurabi__LJ028-0037__occ1__len13600.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/50_hammurabi__LJ028-0037__occ1__len13600.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID50",
+                "DataExportTag": "QID50",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -3850,7 +3850,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'harassed' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/51_harassed__LJ004-0022__occ1__len9440.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/51_harassed__LJ004-0022__occ1__len9440.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID51",
+                "DataExportTag": "QID51",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -3916,7 +3916,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'hereford' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/52_hereford__LJ007-0086__occ1__len10400.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/52_hereford__LJ007-0086__occ1__len10400.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID52",
+                "DataExportTag": "QID52",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -3982,7 +3982,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'horizontal' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/53_horizontal__LJ016-0037__occ1__len13760.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/53_horizontal__LJ016-0037__occ1__len13760.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID53",
+                "DataExportTag": "QID53",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -4048,7 +4048,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'individuality' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/54_individuality__LJ001-0120__occ1__len17280.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/54_individuality__LJ001-0120__occ1__len17280.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID54",
+                "DataExportTag": "QID54",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -4114,7 +4114,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'invoices' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/55_invoices__LJ034-0088__occ1__len10720.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/55_invoices__LJ034-0088__occ1__len10720.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID55",
+                "DataExportTag": "QID55",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -4180,7 +4180,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'juvenile' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/56_juvenile__LJ006-0019__occ1__len8480.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/56_juvenile__LJ006-0019__occ1__len8480.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID56",
+                "DataExportTag": "QID56",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -4246,7 +4246,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'juveniles' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/57_juveniles__LJ003-0091__occ1__len14240.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/57_juveniles__LJ003-0091__occ1__len14240.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID57",
+                "DataExportTag": "QID57",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -4312,7 +4312,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'macintosh' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/58_macintosh__LJ011-0131__occ1__len11520.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/58_macintosh__LJ011-0131__occ1__len11520.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID58",
+                "DataExportTag": "QID58",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -4378,7 +4378,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'maryland' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/59_maryland__LJ031-0201__occ1__len11040.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/59_maryland__LJ031-0201__occ1__len11040.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID59",
+                "DataExportTag": "QID59",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -4444,7 +4444,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'matrices' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/60_matrices__LJ001-0081__occ1__len14400.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/60_matrices__LJ001-0081__occ1__len14400.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID60",
+                "DataExportTag": "QID60",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -4510,7 +4510,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'mediterranean' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/61_mediterranean__LJ018-0372__occ1__len14080.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/61_mediterranean__LJ018-0372__occ1__len14080.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID61",
+                "DataExportTag": "QID61",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -4576,7 +4576,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'mesopotamia' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/62_mesopotamia__LJ028-0412__occ1__len14560.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/62_mesopotamia__LJ028-0412__occ1__len14560.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID62",
+                "DataExportTag": "QID62",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -4642,7 +4642,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'minarets' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/63_minarets__LJ028-0013__occ1__len11360.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/63_minarets__LJ028-0013__occ1__len11360.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID63",
+                "DataExportTag": "QID63",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -4708,7 +4708,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'monitored' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/64_monitored__LJ031-0066__occ1__len8800.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/64_monitored__LJ031-0066__occ1__len8800.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID64",
+                "DataExportTag": "QID64",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -4774,7 +4774,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'monsieur' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/65_monsieur__LJ011-0203__occ1__len8159.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/65_monsieur__LJ011-0203__occ1__len8159.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID65",
+                "DataExportTag": "QID65",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -4840,7 +4840,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'narcotics' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/66_narcotics__LJ040-0134__occ1__len11040.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/66_narcotics__LJ040-0134__occ1__len11040.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID66",
+                "DataExportTag": "QID66",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -4906,7 +4906,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'nonpartisan' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/67_nonpartisan__LJ029-0204__occ1__len14240.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/67_nonpartisan__LJ029-0204__occ1__len14240.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID67",
+                "DataExportTag": "QID67",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -4972,7 +4972,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'nourished' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/68_nourished__LJ023-0044__occ1__len12320.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/68_nourished__LJ023-0044__occ1__len12320.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID68",
+                "DataExportTag": "QID68",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -5038,7 +5038,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'oscillating' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/69_oscillating__LJ025-0020__occ1__len10720.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/69_oscillating__LJ025-0020__occ1__len10720.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID69",
+                "DataExportTag": "QID69",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -5104,7 +5104,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'ostentatious' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/70_ostentatious__LJ015-0150__occ1__len15840.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/70_ostentatious__LJ015-0150__occ1__len15840.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID70",
+                "DataExportTag": "QID70",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -5170,7 +5170,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'paradise' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/71_paradise__LJ028-0134__occ1__len15040.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/71_paradise__LJ028-0134__occ1__len15040.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID71",
+                "DataExportTag": "QID71",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -5236,7 +5236,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'parasitic' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/72_parasitic__LJ025-0086__occ1__len10560.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/72_parasitic__LJ025-0086__occ1__len10560.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID72",
+                "DataExportTag": "QID72",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -5302,7 +5302,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'parasitically' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/73_parasitically__LJ025-0076__occ1__len15200.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/73_parasitically__LJ025-0076__occ1__len15200.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID73",
+                "DataExportTag": "QID73",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -5368,7 +5368,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'penknife' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/74_penknife__LJ012-0181__occ1__len11200.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/74_penknife__LJ012-0181__occ1__len11200.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID74",
+                "DataExportTag": "QID74",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -5434,7 +5434,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'persevered' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/75_persevered__LJ008-0035__occ1__len10880.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/75_persevered__LJ008-0035__occ1__len10880.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID75",
+                "DataExportTag": "QID75",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -5500,7 +5500,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'phosphoric' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/76_phosphoric__LJ025-0164__occ1__len11680.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/76_phosphoric__LJ025-0164__occ1__len11680.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID76",
+                "DataExportTag": "QID76",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -5566,7 +5566,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'portuguese' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/77_portuguese__LJ012-0124__occ1__len11200.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/77_portuguese__LJ012-0124__occ1__len11200.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID77",
+                "DataExportTag": "QID77",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -5632,7 +5632,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'premising' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/78_premising__LJ010-0004__occ1__len12960.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/78_premising__LJ010-0004__occ1__len12960.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID78",
+                "DataExportTag": "QID78",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -5698,7 +5698,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'prerogative' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/79_prerogative__LJ006-0299__occ1__len12320.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/79_prerogative__LJ006-0299__occ1__len12320.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID79",
+                "DataExportTag": "QID79",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -5764,7 +5764,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'presided' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/80_presided__LJ002-0143__occ1__len14240.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/80_presided__LJ002-0143__occ1__len14240.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID80",
+                "DataExportTag": "QID80",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -5830,7 +5830,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'pugnacious' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/81_pugnacious__LJ041-0101__occ1__len13280.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/81_pugnacious__LJ041-0101__occ1__len13280.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID81",
+                "DataExportTag": "QID81",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -5896,7 +5896,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'punitive' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/82_punitive__LJ019-0099__occ1__len12000.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/82_punitive__LJ019-0099__occ1__len12000.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID82",
+                "DataExportTag": "QID82",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -5962,7 +5962,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'respiratory' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/83_respiratory__LJ017-0094__occ1__len12480.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/83_respiratory__LJ017-0094__occ1__len12480.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID83",
+                "DataExportTag": "QID83",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -6028,7 +6028,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'reverend' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/84_reverend__LJ006-0018__occ1__len8800.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/84_reverend__LJ006-0018__occ1__len8800.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID84",
+                "DataExportTag": "QID84",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -6094,7 +6094,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'ridicule' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/85_ridicule__LJ007-0037__occ1__len8800.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/85_ridicule__LJ007-0037__occ1__len8800.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID85",
+                "DataExportTag": "QID85",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -6160,7 +6160,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'seleucia' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/86_seleucia__LJ028-0366__occ1__len11680.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/86_seleucia__LJ028-0366__occ1__len11680.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID86",
+                "DataExportTag": "QID86",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -6226,7 +6226,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'sepulchre' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/87_sepulchre__LJ008-0254__occ1__len10880.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/87_sepulchre__LJ008-0254__occ1__len10880.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID87",
+                "DataExportTag": "QID87",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -6292,7 +6292,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'shredded' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/88_shredded__LJ031-0047__occ1__len8960.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/88_shredded__LJ031-0047__occ1__len8960.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID88",
+                "DataExportTag": "QID88",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -6358,7 +6358,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'shropshire' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/89_shropshire__LJ005-0204__occ1__len11360.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/89_shropshire__LJ005-0204__occ1__len11360.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID89",
+                "DataExportTag": "QID89",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -6424,7 +6424,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'soubriquet' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/90_soubriquet__LJ014-0228__occ1__len15520.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/90_soubriquet__LJ014-0228__occ1__len15520.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID90",
+                "DataExportTag": "QID90",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -6490,7 +6490,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'specimen' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/91_specimen__LJ005-0106__occ1__len11840.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/91_specimen__LJ005-0106__occ1__len11840.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID91",
+                "DataExportTag": "QID91",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -6556,7 +6556,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'speeches' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/92_speeches__LJ010-0211__occ1__len8960.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/92_speeches__LJ010-0211__occ1__len8960.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID92",
+                "DataExportTag": "QID92",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -6622,7 +6622,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'spiritual' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/93_spiritual__LJ003-0313__occ1__len12000.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/93_spiritual__LJ003-0313__occ1__len12000.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID93",
+                "DataExportTag": "QID93",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -6688,7 +6688,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'spirituous' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/94_spirituous__LJ003-0009__occ1__len13440.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/94_spirituous__LJ003-0009__occ1__len13440.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID94",
+                "DataExportTag": "QID94",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -6754,7 +6754,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'staffordshire' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/95_staffordshire__LJ005-0210__occ1__len14080.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/95_staffordshire__LJ005-0210__occ1__len14080.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID95",
+                "DataExportTag": "QID95",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -6820,7 +6820,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'tocqueville' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/96_tocqueville__LJ006-0025__occ1__len11520.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/96_tocqueville__LJ006-0025__occ1__len11520.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID96",
+                "DataExportTag": "QID96",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -6886,7 +6886,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'turreted' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/97_turreted__LJ028-0496__occ1__len8960.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/97_turreted__LJ028-0496__occ1__len8960.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID97",
+                "DataExportTag": "QID97",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -6952,7 +6952,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'unclothed' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/98_unclothed__LJ004-0139__occ1__len13760.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/98_unclothed__LJ004-0139__occ1__len13760.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID98",
+                "DataExportTag": "QID98",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -7018,7 +7018,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'usurious' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/99_usurious__LJ014-0066__occ1__len12320.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/99_usurious__LJ014-0066__occ1__len12320.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID99",
+                "DataExportTag": "QID99",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",
@@ -7084,7 +7084,7 @@
             "TertiaryAttribute": null,
             "Payload": {
                 "QuestionText": "Which of the following two renditions of 'venetian' are closer to the reference recording in terms of pronunciation?<br>Reference recording: <audio class=\"qmedia\" controls=\"true\" height=\"40\" preload=\"auto\" width=\"320\"><source src=\"https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/100_venetian__LJ001-0056__occ1__len8960.wav\" type=\"audio/wav\" /><embed class=\"qmedia\" flashconsts=\"file=https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/100_venetian__LJ001-0056__occ1__len8960.wav&amp;width=320&amp;height=20&amp;type=wav&amp;autostart=false\" height=\"20\" pluginspage=\"http://adobe.com/flashplayer/\" src=\"/WRQualtricsShared/Flash/flvplayer.swf\" type=\"application/x-shockwave-flash\" width=\"320\" wmode=\"transparent\" /></audio>\n",
-                "DataExportTag": "test9_QID100",
+                "DataExportTag": "QID100",
                 "QuestionType": "MC",
                 "Selector": "SAVR",
                 "SubSelector": "TX",

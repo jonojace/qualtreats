@@ -4,7 +4,7 @@ survey_id = "SV_4TLSPrwNIjymdh3"
 # the below variables should be set according to your survey specifications
 
 # this text will appear in each question
-ab_question_text = "Which of the following two pronunciations of '{}' are closer to the reference recording?"
+ab_question_text = "Which of the following two renditions of '{}' are closer to the reference recording in terms of pronunciation?"
 mc_question_text= "Are there any errors in this speech sample?"
 trs_question_text = "Please type the sentence you hear in this audio sample."
 mushra_question_text = "How natural are the following speech recordings? <br> Reference: "

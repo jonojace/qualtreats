@@ -73,17 +73,22 @@ def get_sentences(sentence_file):
 
 # make a new question using basis question and urls
 def make_question(qid, urls, basis_question,question_type,
-                  question_function, question_text):
+                  question_function, question_text, test_name=""):
     new_q = copy.deepcopy(basis_question)
     # Set the survey ID
     new_q['SurveyID'] = config.survey_id
     # Change all the things that reflect the question ID
     new_q['Payload'].update({'QuestionID' : f'QID{qid}',
-                                   'DataExportTag' : f'QID{qid}',
-                                   'QuestionDescription' : f'Q{qid}:{question_type}',
-                                   'QuestionText': question_text})
+                                'DataExportTag' : f'QID{qid}',
+                                'QuestionDescription' : f'Q{qid}:{question_type}',
+                                'QuestionText': question_text})
     new_q.update({'PrimaryAttribute' : f'QID{qid}',
                         'SecondaryAttribute' : f'QID{qid}: {question_type}' })
+    
+    if test_name:
+        # insert test name into question id to ensure that its easy to distinguish between tests when importing all question blocks into one single test
+        new_q['Payload']['DataExportTag'] = f'{test_name}_QID{qid}'
+
     try: # call handler function for each question type
         question_function(new_q, urls, qid)
     except TypeError:
@@ -178,6 +183,7 @@ def set_id(obj):
 def main():
     parser = argparse.ArgumentParser() # add question types
     parser.add_argument("-outfile", type=str, default=None)
+    parser.add_argument("-survey-name", type=str, default=None, help="survey name when imported to qualtrics")
     parser.add_argument("-add-gt-audio", action='store_true',
                             help="add ground truth audio to question text")
     parser.add_argument("-ab", action='store_true',
@@ -217,20 +223,21 @@ def main():
 
     # load ground truth audio urls for ab tests
     targetword2gturl = {}
-    with open(args.ab_fileGT) as f:
-        gturls = f.readlines()
-    for line in gturls:
-        # line -> test3 https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/1_allegiance__LJ007-0223__occ1__len8960.wav
-        _testname, url = line.split(' ')
-        filename = url.split('/')[-1]
-        targetword = filename.split('__')[0].split('_')[-1]
-        targetword2gturl[targetword] = url.rstrip()
+    if args.ab_fileGT is not None:
+        with open(args.ab_fileGT) as f:
+            gturls = f.readlines()
+        for line in gturls:
+            # line -> test3 https://jonojace.github.io/SSW23-asr-speller-samples/groundtruth/1_allegiance__LJ007-0223__occ1__len8960.wav
+            _testname, url = line.split(' ')
+            filename = url.split('/')[-1]
+            targetword = filename.split('__')[0].split('_')[-1]
+            targetword2gturl[targetword] = url.rstrip()
     print("gt urls", targetword2gturl)
 
     cla_args = args
 
     # get only args which were specified on command line
-    args = [key for key, value in vars(args).items() if value==True and key != "add_gt_audio"]
+    args = [key for key, value in vars(args).items() if value==True]
 
     # store the arguments passed to format_urls() when executed
     argument_dict = {'ab':[config.ab_file1, config.ab_file2] if ab_args is None else ab_args,
@@ -264,6 +271,10 @@ def main():
     # get json to use as basis for new questions
     basis_json = get_basis_json()
     elements = basis_json['SurveyElements']
+
+    # rename survey (optional)
+    if cla_args.survey_name is not None:
+        basis_json['SurveyEntry']['SurveyName'] = cla_args.survey_name
 
     # Set the survey ID in all survey_elements
     elements = list(map(set_id, elements))
@@ -342,11 +353,13 @@ def main():
 
             q_text = q_text_dict[arg].format(target_word)
 
-            if cla_args.add_gt_audio:
+            if targetword2gturl:
                 # add a audio player for the ground truth audio to question text
                 q_text += f"<br>Reference recording: {get_player_html(targetword2gturl[target_word])}"
 
             print("question text is:", q_text)
+
+            test_name = os.path.basename(cla_args.outfile).rstrip('.qsf')
 
             # make a new question and add it to the list of questions
             questions.append(make_question(
@@ -359,7 +372,8 @@ def main():
                                 question_type=arg,
                                 # handler function for that question type
                                 question_function=handler_dict[arg],
-                                question_text=q_text  # as set above
+                                question_text=q_text,  # as set above
+                                test_name=test_name,
                                 ))
             q_counter += 1
             # increment these counters when a question of that type is created
