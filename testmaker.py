@@ -355,7 +355,7 @@ def main():
 
             if targetword2gturl:
                 # add a audio player for the ground truth audio to question text
-                q_text = f"Here is a reference recording of '{target_word}':<br>{get_player_html(targetword2gturl[target_word])}<br>" + q_text
+                q_text = f"Here is a reference recording of '{target_word}':<br>{get_player_html(targetword2gturl[target_word])}<br><br>" + q_text
 
             print("question text is:", q_text)
 
